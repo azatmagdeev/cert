@@ -1,0 +1,19 @@
+{
+  "name": "cert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azatmagdeev/cert.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azatmagdeev/cert/issues"
+  },
+  "homepage": "https://github.com/azatmagdeev/cert#readme"
+}
